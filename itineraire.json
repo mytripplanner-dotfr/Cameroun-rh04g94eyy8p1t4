@@ -1,0 +1,191 @@
+{
+  "pays": "Cameroun",
+  "drapeau": "🇨🇲",
+  "symbole": "🌴",
+  "titre": "Évasion Tropicale et Détente au Cameroun",
+  "budget_total": "Environ 2450 €/personne",
+  "duree": "4 jours",
+  "temps_vol": "20h00 (depuis Gomez, panama)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Douala et Premiers Pas",
+      "legende": "Après un long voyage, la première journée est dédiée à une arrivée en douceur. Installez-vous, imprégnez-vous de l'ambiance locale et profitez d'une balade relaxante pour débuter votre découverte du Cameroun.",
+      "lieu": "Douala",
+      "activites": [
+        "<strong>🛬 Arrivée à Douala</strong>: Atterrissage à l'aéroport international de Douala (DLA) et transfert vers votre hôtel pour un repos bien mérité.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous installer et de vous rafraîchir après le vol transcontinental.",
+        "<strong>🚶‍♂️ Balade relaxante à Bonanjo</strong>: Découvrez le quartier administratif et résidentiel de Bonanjo, ses avenues bordées d'arbres et son architecture coloniale, idéal pour une promenade paisible en fin de journée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport international de Douala, Douala",
+          "categorie": "Aéroport",
+          "coords": { "lat": 4.0085, "lng": 9.7197 }
+        },
+        {
+          "nom_recherche": "Quartier Bonanjo, Douala",
+          "categorie": "Quartier",
+          "coords": { "lat": 4.0460, "lng": 9.6950 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le Cameroun exige un visa pour la plupart des nationalités. Assurez-vous d'avoir le vôtre avant le départ pour éviter tout désagrément à l'arrivée."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌊",
+      "titre": "Culture Urbaine et Évasion Côtière vers Limbé",
+      "legende": "Matinée dédiée à la culture doualaise avant de prendre la route vers la ville côtière de Limbé. Là-bas, la brise marine et les paysages volcaniques vous attendent pour une après-midi de pure détente.",
+      "lieu": "Douala & Limbé",
+      "activites": [
+        "<strong>🏛️ Visite du Musée Maritime de Douala</strong>: Plongez dans l'histoire maritime du Cameroun et découvrez l'importance du fleuve Wouri et de l'océan pour la région.",
+        "<strong>🚗 Route vers Limbé</strong>: Profitez d'un trajet panoramique d'environ 2 heures vers la ville côtière de Limbé, nichée au pied du Mont Cameroun.",
+        "<strong>🏖️ Détente à Black Beach</strong>: Installez-vous sur le sable volcanique noir de Black Beach à Limbé et laissez-vous bercer par le son des vagues de l'Atlantique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée Maritime de Douala, Douala",
+          "categorie": "Musée",
+          "coords": { "lat": 4.0440, "lng": 9.6900 }
+        },
+        {
+          "nom_recherche": "Black Beach, Limbé",
+          "categorie": "Plage",
+          "coords": { "lat": 3.9990, "lng": 9.1990 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Transport",
+          "texte": "Pour le trajet Douala-Limbé, un taxi partagé ou un véhicule privé avec chauffeur est recommandé pour le confort et la sécurité."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌿",
+      "titre": "Nature luxuriante et Sérénité à Limbé",
+      "legende": "Cette journée est entièrement consacrée à la découverte de la richesse naturelle de Limbé. Entre jardins botaniques et plages paisibles, c'est une invitation à la relaxation et à la contemplation.",
+      "lieu": "Limbé",
+      "activites": [
+        "<strong>🌳 Exploration du Jardin Botanique de Limbé</strong>: Flânez dans ce jardin historique, abritant une incroyable diversité de plantes tropicales et d'espèces endémiques, un véritable havre de paix.",
+        "<strong>🚶‍♀️ Promenade sur la plage de Limbé</strong>: Profitez d'une balade douce le long de la côte, admirez les paysages volcaniques et la vue sur l'océan Atlantique.",
+        "<strong>🌅 Coucher de soleil sur la côte</strong>: Terminez la journée en admirant un magnifique coucher de soleil sur l'océan, un moment de pure magie et de tranquillité."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardin Botanique de Limbé, Limbé",
+          "categorie": "Jardin",
+          "coords": { "lat": 4.0180, "lng": 9.2150 }
+        },
+        {
+          "nom_recherche": "Plage de Limbé, Limbé",
+          "categorie": "Plage",
+          "coords": { "lat": 4.0050, "lng": 9.2000 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "N'oubliez pas votre appareil photo pour immortaliser la flore exotique du jardin botanique et les paysages côtiers uniques de Limbé."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Souvenirs et Départ",
+      "legende": "Profitez d'une dernière matinée camerounaise avant de reprendre la route vers Douala pour votre vol retour. L'occasion de faire quelques emplettes ou de savourer un dernier repas local.",
+      "lieu": "Limbé & Douala",
+      "activites": [
+        "<strong>☕ Matinée libre à Limbé</strong>: Savourez un petit-déjeuner local et profitez des dernières heures pour vous imprégner de l'atmosphère paisible de Limbé.",
+        "<strong>🛍️ Achats de souvenirs au Marché Central de Douala</strong>: Sur le chemin du retour, faites une halte au Marché Central pour dénicher des objets d'artisanat et des souvenirs authentiques.",
+        "<strong>🛫 Départ de Douala</strong>: Transfert à l'aéroport international de Douala pour votre vol retour, la tête remplie de merveilleux souvenirs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Marché Central de Douala, Douala",
+          "categorie": "Marché",
+          "coords": { "lat": 4.0460, "lng": 9.7000 }
+        },
+        {
+          "nom_recherche": "Aéroport international de Douala, Douala",
+          "categorie": "Aéroport",
+          "coords": { "lat": 4.0085, "lng": 9.7197 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Au marché, n'hésitez pas à négocier les prix, c'est une pratique courante et attendue."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 1828 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 125 €/pers (transferts aéroport, inter-villes, taxis locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 160 €/pers (40 €/jour pour 3 repas, classe moyenne)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 250 €/pers (3 nuits en hôtel 3*, base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 75 €/pers (entrées musées, jardins, plages)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Novembre à Février (saison sèche)", "symbole": "☀️" },
+    { "titre": "Juin à Octobre (saison verte, pluies intermittentes mais paysages luxuriants)", "symbole": "🌧️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Franc CFA (XAF). Prévoyez des espèces pour les petits commerces et marchés. Les cartes bancaires sont acceptées dans les grands hôtels et supermarchés.", "symbole": "💳" },
+    { "titre": "Les langues officielles sont le français et l'anglais. Quelques notions de français seront très utiles, surtout en dehors des grandes villes.", "symbole": "🗣️" },
+    { "titre": "Un visa est obligatoire pour la plupart des nationalités. Renseignez-vous auprès de l'ambassade du Cameroun dans votre pays d'origine bien avant le départ.", "symbole": "🛂" },
+    { "titre": "La vaccination contre la fièvre jaune est exigée. Il est également recommandé de consulter votre médecin pour d'autres vaccins et un traitement antipaludique.", "symbole": "💉" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "L'Afrique en miniature",
+      "texte": "Le Cameroun est surnommé \"l'Afrique en miniature\" en raison de sa diversité géographique et culturelle. On y trouve des plages, des forêts tropicales, des savanes, des montagnes et une multitude d'ethnies, reflétant la richesse du continent."
+    },
+    {
+      "symbole": "🌋",
+      "titre": "Le Mont Cameroun, un géant actif",
+      "texte": "Le Mont Cameroun, qui domine la ville de Limbé, est le plus haut sommet d'Afrique de l'Ouest et l'un des volcans les plus actifs du continent. Sa dernière éruption majeure remonte à 2000."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Le Ndolé",
+      "description": "Considéré comme le plat national, le Ndolé est un ragoût savoureux à base de feuilles amères (vernona), d'arachides écrasées, de crevettes ou de viande, souvent servi avec du miondo ou du plantain."
+    },
+    {
+      "symbole": "🍗",
+      "titre": "Le Poulet DG",
+      "description": "Un plat festif et délicieux, le Poulet DG (Directeur Général) est un poulet mijoté avec des plantains mûrs frits, des carottes, des poivrons et d'autres légumes, offrant une explosion de saveurs."
+    },
+    {
+      "symbole": "🫘",
+      "titre": "Le Koki",
+      "description": "Le Koki est un plat végétarien traditionnel à base de haricots cornilles écrasés, mélangés à de l'huile de palme et des épices, puis cuit à la vapeur dans des feuilles de bananier, lui donnant une texture unique."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/PTY-DLA/2026-06-08/2026-06-12", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Office du Tourisme du Cameroun", "url": "https://www.minat.gov.cm/index.php/fr/tourisme", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Cameroun", "url": "https://www.accuweather.com/fr/cm/cameroun-weather", "symbole": "🌤️" }
+  ]
+}
